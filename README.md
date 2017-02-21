@@ -2,5 +2,13 @@
 
 ## LSD-SLAM: Large-Scale Direct Monocular SLAM Chinese Version \[engel14eccv\]
 
+LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 
+Authors: Jakob Engel and Thomas Schöps and Daniel Cremers, 
+
+Technical University 
+
+\[Link\] http://vision.in.tum.de/research/vslam/lsdslam
+
+\[Link\] https://vision.in.tum.de/\_media/spezial/bib/engel14eccv.pdf
 
