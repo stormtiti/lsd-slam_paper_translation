@@ -60,11 +60,29 @@ Several approaches have been made in the past to remedy this by including edge-b
 
 **之前，已经有不少文章，提出了获取更多图像信息的方法，包括基于图像边缘特征\(edge-based\) \[16, 6\]，甚至是基于图像区域特征\(region-based\) \[5\]。**
 
+Yet, since the estimation of the high-dimensional feature space is tedious, they are rarely used in practice.
+
+**然而，高维度空间的特征计算代价比较大，所以这些方法很少在实际中使用。**
+
+To obtain dense reconstructions, the estimated camera poses can be used to subsequently reconstruct dense maps, using multiview stereo \[2\].
+
+**为了获得稠密式环境重构（dense reconstruction）， 我们可以通过多视三维模型（multiview stereo）的方法，使用连续的相机估计姿态，来重构稠密地图\[2\]。**
+
+
+
+**直接法** Direct Methods.
+
+TODO
+
 
 
 **图片说明文字**
 
 Fig. 1: Large-Scale Direct Monocular SLAM: LSD-SLAM generates a consistent global map, using direct image alignment and probabilistic, semi-dense depth maps instead of keypoints.
 
+**Fig. 1: 具备大尺度，基于直接法的单目SLAM系统: LSD-SLAM （英文简称） 通过对图像的直接配准和使用概率化的半稠密深度图，来生成具有全局一致性的地图，不同于以往使用特征点法的地图构建。**
 
+Top: Accumulated pointclouds of all keyframes of a medium-sized trajectory \(from a hand-held monocular camera\), generated in real-time.
+
+顶部：手提式单目相机，
 
