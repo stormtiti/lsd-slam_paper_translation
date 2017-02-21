@@ -68,13 +68,9 @@ To obtain dense reconstructions, the estimated camera poses can be used to subse
 
 **为了获得稠密式环境重构（dense reconstruction）， 我们可以通过多视三维模型（multiview stereo）的方法，使用连续的相机估计姿态，来重构稠密地图\[2\]。**
 
-
-
 **直接法** Direct Methods.
 
-TODO
-
-
+_TODO_
 
 **图片说明文字**
 
@@ -84,5 +80,5 @@ Fig. 1: Large-Scale Direct Monocular SLAM: LSD-SLAM generates a consistent globa
 
 Top: Accumulated pointclouds of all keyframes of a medium-sized trajectory \(from a hand-held monocular camera\), generated in real-time.
 
-顶部：手提式单目相机，
+顶部：手提式单目相机，_TODO_
 
