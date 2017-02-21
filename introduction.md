@@ -1,4 +1,4 @@
-**引论 ** Introduction 
+**引论 ** Introduction
 
 Real-time monocular Simultaneous Localization and Mapping \(SLAM\) and 3D reconstruction have become increasingly popular research topics.
 
@@ -39,6 +39,20 @@ The fundamental idea behind feature-based approaches \(both filtering-based \[15
 First, a set of feature observations is extracted from the image.
 
 **首先，从图像中提取一组特征观测量（feature observations）。**
+
+Second, the camera position and scene geometry is computed as a function of these feature observations only.
+
+**其次，相机位置和场景几何信息，仅通过上述特征观测量计算获得。**
+
+While this decoupling simplifies the overall problem, it comes with an important limitation:
+
+**虽然这种解耦（decoupling）方法简化了（估计空间几何信息的）整个问题，但是这种方法存在一个比较大的局限性：**
+
+Only information that conforms to the feature type can be used.
+
+**仅仅使用了图像上符合特征类型的信息，（而图像的其他数据信息将被丢弃掉，不被使用，译者额外添加备注）**
+
+
 
 
 
