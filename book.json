@@ -1,8 +1,15 @@
 {
-    "plugins": ["disqus"],
+    "plugins": ["disqus", "richquotes"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "https-www-gitbook-com-stormtiti"
+        },
+        "richquotes":
+        {
+            "star": {
+                "alert": "warning",
+                "picto": "fa-star"
+            }
         }
     }
 }
