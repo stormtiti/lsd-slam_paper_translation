@@ -2,7 +2,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": "engel14eccv translation"
+            "shortName": "https-www-gitbook-com-stormtiti"
         }
     }
 }
