@@ -4,9 +4,9 @@
 
 LSD-SLAM: Large-Scale Direct Monocular SLAM, J. Engel, T. Schöps, D. Cremers, ECCV '14
 
-Authors: Jakob Engel and Thomas Schöps and Daniel Cremers,
+Authors: Jakob Engel and Thomas Schöps and Daniel Cremers
 
-Technical University
+Technical University Munich
 
 \[Link\] [http://vision.in.tum.de/research/vslam/lsdslam](http://vision.in.tum.de/research/vslam/lsdslam)
 
