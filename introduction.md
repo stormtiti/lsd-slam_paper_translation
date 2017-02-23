@@ -30,11 +30,11 @@ Scaled sensors on the other hand, such as depth or stereo cameras, have a limite
 
 **1.1 目前已有的单目SLAM研究成果 Related Work**
 
-**基于特征点的方法** （Feature-Based Methods）
+**基于特征点提取法** （Feature-Based Methods）
 
 The fundamental idea behind feature-based approaches \(both filtering-based \[15, 19\] and keyframe-based \[15\]\) is to split the overall problem – estimating geometric information from images – into two sequential steps:
 
-**图像特征点方法的基本思想（可以是基于滤波方式\[15,19\]和基于关键帧方式\[15\]）就是要解决从图像（帧）上估计空间的几何信息——这整一个问题，可以拆分成两个步骤：**
+**图像特征点提取法的基本思想（可以是基于滤波方式\[15,19\]和基于关键帧方式\[15\]）就是要解决从图像（帧）上估计空间的几何信息——这整一个问题，可以拆分成两个步骤：**
 
 First, a set of feature observations is extracted from the image.
 
@@ -66,9 +66,11 @@ Yet, since the estimation of the high-dimensional feature space is tedious, they
 
 To obtain dense reconstructions, the estimated camera poses can be used to subsequently reconstruct dense maps, using multiview stereo \[2\].
 
-**为了获得稠密式环境重构（dense reconstruction）， 我们可以通过多视三维模型（multiview stereo）的方法，使用连续的相机估计姿态，来重构稠密地图\[2\]。**
+**如果要进行稠密式环境重构（dense reconstruction）， 可以通过多视三维模型（multiview stereo）的方法，使用连续的相机估计姿态，来重构稠密地图\[2\]。**
 
-**直接法** Direct Methods.
+
+
+**图像直接法** Direct Methods.
 
 _TODO_
 
