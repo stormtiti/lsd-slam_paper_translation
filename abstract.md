@@ -14,7 +14,7 @@ These are obtained by filtering over a large number of pixelwise small-baseline 
 
 The explicitly scale-drift aware formulation allows the approach to operate on challenging sequences including large variations in scene scale.
 
-**LSD-SLAM可以通过（我们选择的）数学公式，计算尺度漂移（scale-drift），从而能够运行在难度比较大的图像序（sequence）上，诸如：场景尺度（scene scale）变换比较大的场合。**
+**LSD-SLAM可以通过（我们选择的）数学公式，计算尺度漂移（scale-drift），从而能够运行在难度比较大的图像序列（sequence）上，诸如：场景尺度（scene scale）变换比较大的场合。**
 
 Major enablers are two key novelties:
 
