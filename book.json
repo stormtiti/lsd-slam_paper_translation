@@ -1,8 +1,11 @@
+// book.json
 {
-    "plugins": ["disqus"],
+    "plugins": [
+      "disqus"
+    ],
     "pluginsConfig": {
         "disqus": {
             "shortName": "https-www-gitbook-com-stormtiti"
-        }
+        },
     }
 }
