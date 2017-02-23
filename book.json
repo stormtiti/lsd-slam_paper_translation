@@ -1,4 +1,3 @@
-// book.json
 {
     "plugins": ["disqus"],
     "pluginsConfig": {
