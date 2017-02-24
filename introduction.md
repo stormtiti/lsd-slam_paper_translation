@@ -14,7 +14,7 @@ and \(2\) augmented and virtual reality applications slowly making their way int
 
 One of the major benefits of monocular SLAM – and simultaneously one of the biggest challenges – comes with the inherent scale-ambiguity:
 
-**单目SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的**~~**尺度歧义**~~_**尺度不确定性**_**（scale-ambiguity）这个问题：**
+**单目SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的**~~尺度歧义~~_**尺度不确定性**_**（scale-ambiguity）这个问题：**
 
 The scale of the world cannot be observed and drifts over time, being one of the major error sources.
 
@@ -22,7 +22,7 @@ The scale of the world cannot be observed and drifts over time, being one of the
 
 The advantage is that this allows to seamlessly switch between differently scaled environments, such as a desk environment indoors and large-scale outdoor environments.
 
-**当然**~~**尺度歧义**~~_**尺度不确定性**_**的优点在于，可以对不同规模大小的空间环境之间走游切换，起到无缝连接的作用，比如从室内桌面上的（小）环境和大规模的户外场景（等）。**
+**当然**~~尺度歧义~~_**尺度不确定性**_**的优点在于，可以对不同规模大小的空间环境之间走游切换，起到无缝连接的作用，比如从室内桌面上的（小）环境和大规模的户外场景（等）。**
 
 Scaled sensors on the other hand, such as depth or stereo cameras, have a limited range at which they can provide reliable measurements and hence do not provide this flexibility.
 
