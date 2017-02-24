@@ -2,7 +2,7 @@
 
 We propose a direct \(feature-less\) monocular SLAM algorithm which, in contrast to current state-of-the-art regarding direct methods, allows to build large-scale, consistent maps of the environment.
 
-**我们提出一种**~~直接（无需特征）的单目SLAM算法~~_**基于直接法的单目SLAM算法**_**，该方法与目前现有直接法相比，能够**~~**建立**~~_**构建**_**（大规模），大尺度的（large-scale），全局一致性的（consistent map）环境地图。**
+**我们提出一种**~~直接（无需特征）的单目SLAM算法~~_**基于直接法的单目SLAM算法**_**，该方法与目前现有直接法相比，能够**~~建立~~_**构建**_**（大规模），大尺度的（large-scale），全局一致性的（consistent map）环境地图。**
 
 Along with highly accurate pose estimation based on direct image alignment, the 3D environment is reconstructed in real-time as pose-graph of keyframes with associated semi-dense depth maps.
 
