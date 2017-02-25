@@ -16,8 +16,6 @@ and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
 **在（2.3小节）简要介绍（相机关键帧之间如何）传递（深度信息，即：深度的）不确定性的。**
 
-
-
 **数学符号定义** Notation.
 
 We denote matrices by bold, capital letters \(R\) and vectors as bold, lower case letters \(ξ\).
@@ -30,9 +28,9 @@ The n’th row of a matrix is denoted by \[·\] n （$$$$$$[\cdot]_{n}$$） .
 
 Images I : Ω →R, （$$I: \Omega \rightarrow \mathbb{R}$$）
 
-the per-pixel inverse depth map D : Ω → R +  （$$D: \Omega \rightarrow \mathbb{R}^{+}$$）
+the per-pixel inverse depth map D : Ω → R +  （$$D: \Omega \rightarrow \mathbb{R}^{+}$$） ![](/assets/math_1.png)
 
-and the inverse depth variance map V : Ω → R + （$$V: \Omega \rightarrow \mathbb{R}^{+}$$） are written as functions, 
+and the inverse depth variance map V : Ω → R + （$$V: \Omega \rightarrow \mathbb{R}^{+}$$） ![](/assets/math_1.png) are written as functions,
 
 where Ω ⊂ R 2 is the set of normalized pixel coordinates, i.e., they include the intrinsic camera calibration.
 
@@ -40,13 +38,13 @@ where Ω ⊂ R 2 is the set of normalized pixel coordinates, i.e., they include 
 
 **图像 I : Ω →R， （**$$I: \Omega \rightarrow \mathbb{R}$$**） （备注译者使用Latex符号表示）**
 
-**逆深度图 D : Ω → R +  （**$$D: \Omega \rightarrow \mathbb{R}^{+}$$**）**
+**逆深度图 D : Ω → R +  （**$$D: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png)
 
-**逆深度方差图 V : Ω → R +  （**$$V: \Omega \rightarrow \mathbb{R}^{+}$$**）**
+**逆深度方差图 V : Ω → R +  （**$$V: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png)
 
-**其中：Ω ⊂ R 2 （**$$\Omega \subset \mathbb{R}^{2}$$**），Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）标定的参数。**
+**其中：Ω ⊂ R 2 （**$$\Omega \subset \mathbb{R}^{2}$$**） **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）标定的参数。**
 
-Throughout the paper we use d to denote the inverse of the depth z of a point, i.e., d = z −1 （$$d = z^{-1}$$） . \(这里是z的倒数，不是z-1\)
+Throughout the paper we use d to denote the inverse of the depth z of a point, i.e., d = z −1 （$$d = z^{-1}$$） ![](/assets/math_3.png) . \(这里是z的倒数，不是z-1\)
 
-**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即：d = z −1 （**$$d = z^{-1}$$）。
+**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即：d = z −1 （**$$d = z^{-1}$$） ![](/assets/math_3.png)。
 
