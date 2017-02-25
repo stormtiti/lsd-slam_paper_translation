@@ -36,11 +36,11 @@ where Ω ⊂ R 2 is the set of normalized pixel coordinates, i.e., they include 
 
 **论文中提及的若干概念： 图像 I （Image），（像素级别的）逆深度图 D（简称逆深度图，per-pixel inverse depth map），逆深度方差图 V（inverse depth variance map），我们用数学映射关系的函数表达如下：**
 
-**图像 I : Ω →R， （**$$I: \Omega \rightarrow \mathbb{R}$$**） （备注译者使用Latex符号表示）**
+**图像 I : Ω →R， （**$$I: \Omega \rightarrow \mathbb{R}$$**） （备注译者使用Latex符号表示）   （I: 从图像向一个实数的映射）**
 
-**逆深度图 D : Ω → R +  （**$$D: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png)
+**逆深度图 D : Ω → R +  （**$$D: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png)   **（D: 逆深度图到正实数的映射）**
 
-**逆深度方差图 V : Ω → R +  （**$$V: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png)
+**逆深度方差图 V : Ω → R +  （**$$V: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
 
 **其中：Ω ⊂ R 2 （**$$\Omega \subset \mathbb{R}^{2}$$**） **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）标定的参数。**
 
