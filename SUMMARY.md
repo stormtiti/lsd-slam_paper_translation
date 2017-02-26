@@ -11,7 +11,7 @@
   * [2.2 - Weighted Gauss-Newton Optimization on Lie-Manifolds](preliminaires/2.2-weighted-gauss-newton-optimization-on-lie-manifolds.md)
   * [2.3 - Propagation of Uncertainty](preliminaires/2.3-propagation-of-uncertainty.md)
 * [3 - Large-Scale Direct Monocular SLAM](large-scale-direct-monocular-slam.md)
-  * 3.1 - The Complete Method
+  * [3.1 - The Complete Method](large-scale-direct-monocular-slam/3.1-the-complete-method.md)
   * 3.2 - Map Representation
   * 3.3 - Tracking new Frames: Direct se\(3\) Image Alignment
   * 3.4 - Depth Map Estimation

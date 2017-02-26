@@ -4,11 +4,11 @@ We start by giving an overview of the complete algorithm in Sec. 3.1, and briefl
 
 **3.1小节，我们首先给出整个LSD-SLAM算法的大概述，然后在3.2小节，我们会非常简单的介绍LSD-SLAM所用到的的地图（模型）。**
 
-The three main components of the algorithm are then described in 
+The three main components of the algorithm are then described in
 
 Sec. 3.3 \(tracking of new frames\),
 
-Sec. 3.4 \(depth map estimation\), 
+Sec. 3.4 \(depth map estimation\),
 
 Sec. 3.5 \(keyframe-to-keyframe tracking\) and
 
