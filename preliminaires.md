@@ -14,7 +14,7 @@ derive direct image alignment as weighted least-squares minimization on Lie-mani
 
 and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
-**在（2.3小节）简要介绍（相机关键帧之间如何）传递（深度信息，即：深度的）不确定性的。**
+**（相机关键帧之间如何传递深度的不确定性？ 译者额外添加备注）在（2.3小节）我们简单给出（统计学上的）理论公式。**
 
 **数学符号定义** Notation.
 
