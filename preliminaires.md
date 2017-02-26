@@ -18,33 +18,37 @@ and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
 **数学符号定义** Notation.
 
-We denote matrices by bold, capital letters \(R\) and vectors as bold, lower case letters \(ξ\).
+We denote matrices by bold, capital letters \(![](/assets/math_21.png)\) and vectors as bold, lower case letters \(![](/assets/math_22.png)\).
 
 **“矩阵” 用粗体，大写字母表示，（比如：R）， ”向量” 用粗体，小写字母表示（比如：ξ）。**
 
-The n’th row of a matrix is denoted by \[·\] n （$$$$$$[\cdot]_{n}$$） .
+The n’th row of a matrix is denoted by ![](/assets/math_20.png).
 
 **矩阵的第n行用\[·\] n 来表示。**
 
-Images I : Ω →R, （$$I: \Omega \rightarrow \mathbb{R}$$）
+Images I : Ω →R
 
-the per-pixel inverse depth map D : Ω → R +  （$$D: \Omega \rightarrow \mathbb{R}^{+}$$） ![](/assets/math_1.png)
+the per-pixel inverse depth map D :  ![](/assets/math_1.png)
 
-and the inverse depth variance map V : Ω → R + （$$V: \Omega \rightarrow \mathbb{R}^{+}$$） ![](/assets/math_1.png) are written as functions,
+and the inverse depth variance map V :  ![](/assets/math_1.png) are written as functions,
 
-where Ω ⊂ R 2 is the set of normalized pixel coordinates, i.e., they include the intrinsic camera calibration.
+where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., they include the intrinsic camera calibration.
 
-**论文中提及的若干概念： 图像 I （Image），（像素级别的）逆深度图 D（简称逆深度图，per-pixel inverse depth map），逆深度方差图 V（inverse depth variance map），我们用数学映射关系的函数表达如下：**
+**论文中提及的若干概念： **
 
-**图像 I : Ω →R， （**$$I: \Omega \rightarrow \mathbb{R}$$**） （备注译者使用Latex符号表示）   （I: 从图像向一个实数的映射）**
+* **图像 I （Image），**
+* **（像素级别的）逆深度图 D（简称逆深度图，per-pixel inverse depth map），**
+* **逆深度方差图 V（inverse depth variance map），**
 
-**逆深度图 D : Ω → R +  （**$$D: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png)   **（D: 逆深度图到正实数的映射）**
+**我们用数学映射关系的函数表达如下：**
 
-**逆深度方差图 V : Ω → R +  （**$$V: \Omega \rightarrow \mathbb{R}^{+}$$**） **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
+* **图像 I : Ω →R，（I: 从图像向一个实数的映射）**
+* **逆深度图 D :  **![](/assets/math_1.png)   **（D: 逆深度图到正实数的映射）**
+* **逆深度方差图 V : **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
 
-**其中：Ω ⊂ R 2 （**$$\Omega \subset \mathbb{R}^{2}$$**） **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）标定的参数。**
+**其中： **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）标定的参数。**
 
-Throughout the paper we use d to denote the inverse of the depth z of a point, i.e., d = z −1 （$$d = z^{-1}$$） ![](/assets/math_3.png) . \(这里是z的倒数，不是z-1\)
+Throughout the paper we use d to denote the inverse of the depth z of a point, i.e.,![](/assets/math_3.png) .
 
-**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即：d = z −1 （**$$d = z^{-1}$$） ![](/assets/math_3.png)。
+**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即：**![](/assets/math_3.png)。
 
