@@ -46,7 +46,7 @@ where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., 
 * **逆深度图 D :  **![](/assets/math_1.png)   **（D: 逆深度图到正实数的映射）**
 * **逆深度方差图 V : **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
 
-**其中： **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）标定的参数。**
+**其中： **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）。**
 
 Throughout the paper we use d to denote the inverse of the depth z of a point, i.e.,![](/assets/math_3.png) .
 
