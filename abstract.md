@@ -14,7 +14,7 @@ These are obtained by filtering over a large number of pixelwise small-baseline 
 
 ~~（上述姿态图和深度图）是基于图像像素级别（pixelwise），大量小基线（base line）三维立体模型（stereo）比较，筛选计算得到。~~
 
-**（相机轨迹和点云地图，译者额外添加备注）这些结果，是通过滤波方式计算得到，这个方式要使用到大量像素，小基线的立体比较。**
+**（相机轨迹和点云地图，译者额外添加备注）这些结果，是通过滤波方式计算得到，这个方式要使用到大量像素，小基线的立体**~~比较~~**配准。**
 
 The explicitly scale-drift aware formulation allows the approach to operate on challenging sequences including large variations in scene scale.
 
