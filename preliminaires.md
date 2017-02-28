@@ -18,7 +18,7 @@ and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
 **数学符号定义** Notation.
 
-We denote matrices by bold, capital letters \(![](/assets/math_21.png)\) and vectors as bold, lower case letters \(![](/assets/math_22.png)\).
+We denote matrices by bold, capital letters \(![](/assets/math_21.png\)\) and vectors as bold, lower case letters \(![](/assets/math_22.png\)\).
 
 **“矩阵” 用粗体，大写字母表示，（比如：R）， ”向量” 用粗体，小写字母表示（比如：ξ）。**
 
@@ -38,13 +38,13 @@ where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., 
 
 * **图像 I （Image），**
 * **（像素级别的）逆深度图 D（简称逆深度图，per-pixel inverse depth map），**
-* **逆深度方差图 V（inverse depth variance map），**
+* **逆深度方差 V（inverse depth variance map），**
 
 **我们用数学映射关系的函数表达如下：**
 
 * **图像 I : Ω →R，（I: 从图像向一个实数的映射）**
 * **逆深度图 D :  **![](/assets/math_1.png)   **（D: 逆深度图到正实数的映射）**
-* **逆深度方差图 V : **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
+* **逆深度方差 V : **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
 
 **其中： **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）。**
 
