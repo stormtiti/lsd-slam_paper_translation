@@ -2,7 +2,7 @@
 
 We start by giving an overview of the complete algorithm in Sec. 3.1, and briefly introduce the representation for the global map in Sec. 3.2.
 
-**3.1小节，我们首先给出整个LSD-SLAM算法的大概述，然后在3.2小节，我们会非常简单的介绍LSD-SLAM所用到的的地图（模型）。**
+**3.1小节，我们首先给出整个LSD-SLAM算法的大概述，然后在3.2小节，我们简单介绍LSD-SLAM所用到的地图（数学模型）。**
 
 The three main components of the algorithm are then described in
 
