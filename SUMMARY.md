@@ -12,7 +12,7 @@
   * [2.3 - Propagation of Uncertainty](preliminaires/2.3-propagation-of-uncertainty.md)
 * [3 - Large-Scale Direct Monocular SLAM](large-scale-direct-monocular-slam.md)
   * [3.1 - The Complete Method](large-scale-direct-monocular-slam/3.1-the-complete-method.md)
-  * 3.2 - Map Representation
+  * [3.2 - Map Representation](large-scale-direct-monocular-slam/3.2-map-representation.md)
   * 3.3 - Tracking new Frames: Direct se\(3\) Image Alignment
   * 3.4 - Depth Map Estimation
   * 3.5 - Constraint Acquisition: Direct sim\(3\) Image Alignment
