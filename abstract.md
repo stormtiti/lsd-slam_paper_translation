@@ -34,5 +34,7 @@ Major enablers are two key novelties:
 
 The resulting direct monocular SLAM system runs in real-time on a CPU.
 
-**像这样的单目SLAM系统可以实时运行在一个CPU上。**
+~~像这样的单目SLAM系统可以实时运行在一个CPU上。 ~~（译者： 谢谢SLAM研究群 黄老师帮助）
+
+**这个单目SLAM系统，可以实时在单个CPU上运行。**
 
