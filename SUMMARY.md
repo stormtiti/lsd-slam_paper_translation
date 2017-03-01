@@ -19,8 +19,8 @@
   * [3.6 - Map optimization](large-scale-direct-monocular-slam/3.6-map-optimization.md)
 * [4 - Results](results.md)
   * [4.1 - Qualitative Results on Large Trajectories](results/4.1-qualitative-results-on-large-trajectories.md)
-  * 4.2 - Quantitative Evaluation
-  * 4.3 - Convergence Radius for sim\(3\) Tracking
+  * [4.2 - Quantitative Evaluation](results/4.2-quantitative-evaluation.md)
+  * [4.3 - Convergence Radius for sim\(3\) Tracking](results/4.3-convergence-radius-for-sim\(3\)-tracking.md)
 * [5 - Conclusion](conclusion.md)
 * [6 - Reference](reference.md)
 
