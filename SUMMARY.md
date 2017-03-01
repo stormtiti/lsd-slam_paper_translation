@@ -15,8 +15,8 @@
   * [3.2 - Map Representation](large-scale-direct-monocular-slam/3.2-map-representation.md)
   * [3.3 - Tracking new Frames: Direct se\(3\) Image Alignment](large-scale-direct-monocular-slam/3.3-tracking-new-frames.md)
   * [3.4 - Depth Map Estimation](large-scale-direct-monocular-slam/3.4-depth-map-estimation.md)
-  * [3.5 - Constraint Acquisition: Direct sim\(3\) Image Alignment](large-scale-direct-monocular-slam/3.5-constraint-acquisition-direct-sim\(3\)-image-alignment.md)
-  * 3.6 - Map optimization
+  * [3.5 - Constraint Acquisition: Direct sim\(3\) Image Alignment](large-scale-direct-monocular-slam/3.5-constraint-acquisition.md)
+  * [3.6 - Map optimization](large-scale-direct-monocular-slam/3.6-map-optimization.md)
 * [4 - Results](results.md)
   * 4.1 - Qualitative Results on Large Trajectories
   * 4.2 - Quantitative Evaluation
