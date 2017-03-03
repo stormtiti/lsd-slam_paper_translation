@@ -16,11 +16,11 @@ Technical University Munich
 
 
 
-« Ce n'est pas parce que les choses nous paraissent difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles nous paraissent difficiles. »
+Ce n'est pas parce que les choses nous paraissent difficiles que nous n'osons pas, c'est parce que nous n'osons pas qu'elles nous paraissent difficiles （Sénèque）
 
-                                                                                                                                                                                                                                         -- Sénèque
+不是因為事情困難，而讓我們不敢做；是因為我們不敢做，事情才變得困難。 （塞內卡）
 
-不是因為事情困難，而讓我們不敢做；是因為我們不敢做，事情才變得困難。
 
-                                                                                                                                                                                                                                             —塞內卡
+
+
 
