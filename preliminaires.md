@@ -24,7 +24,7 @@ We denote matrices by bold, capital letters \(![](/assets/math_21.png\)\) and ve
 
 The n’th row of a matrix is denoted by ![](/assets/math_20.png).
 
-**n维的矩阵用\[·\] n 来表示。**
+**矩阵的第n行用\[·\] n 来表示。（这个表达形式会3.5小节的公式18. 19中出现，译者额外添加备注）**
 
 Images I : Ω →R
 
