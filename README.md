@@ -8,9 +8,17 @@ Authors: Jakob Engel and Thomas Schöps and Daniel Cremers
 
 Technical University Munich
 
+实验室LSD-SLAM项目
+
 \[Link\] [http://vision.in.tum.de/research/vslam/lsdslam](http://vision.in.tum.de/research/vslam/lsdslam)
 
+LSD-SLAM 2014 ECCV 论文
+
 \[Link\] [https://vision.in.tum.de/\\_media/spezial/bib/engel14eccv.pdf](https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf)
+
+Engel Jacob 在2014 ECCV 上的主题演讲 
+
+\[Link\] http://videolectures.net/eccv2014\_engel\_monocular\_slam/
 
 如果错别字，翻译流畅性问题，或者译者概念搞错，有误导之嫌，或者概念不清晰等，请麻烦告知译者，或写在译文批注里面，译者学识有限，初次翻译和学习，请赐教～～
 
