@@ -16,9 +16,13 @@ LSD-SLAM 2014 ECCV 论文
 
 \[Link\] [https://vision.in.tum.de/\\_media/spezial/bib/engel14eccv.pdf](https://vision.in.tum.de/_media/spezial/bib/engel14eccv.pdf)
 
-Engel Jacob 在2014 ECCV 上的主题演讲 
+Engel Jacob 在2014 ECCV上的主题演讲
 
-\[Link\] http://videolectures.net/eccv2014\_engel\_monocular\_slam/
+\[Link\] [http://videolectures.net/eccv2014\_engel\_monocular\_slam/](http://videolectures.net/eccv2014_engel_monocular_slam/)
+
+Engel Jacob 在 Graz 的演讲报告
+
+\[Link\] https://www.youtube.com/watch?v=UraGSmId438
 
 如果错别字，翻译流畅性问题，或者译者概念搞错，有误导之嫌，或者概念不清晰等，请麻烦告知译者，或写在译文批注里面，译者学识有限，初次翻译和学习，请赐教～～
 
