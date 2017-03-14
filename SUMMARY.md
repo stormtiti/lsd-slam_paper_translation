@@ -23,4 +23,6 @@
   * [4.3 - Convergence Radius for sim\(3\) Tracking](results/4.3-convergence.md)
 * [5 - Conclusion](conclusion.md)
 * [6 - Reference](reference.md)
+* [7 - Supplementary](supplementary.md)
+* [8 - Translation Errata](errata.md)
 
