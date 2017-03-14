@@ -9,9 +9,9 @@
 * 黄山老师 \(湘潭大学\)
 * 周忠详 \(北工大\)
 
-### 1. 问题和建议
+### 2. 问题和建议
 
-#### 1.1 consistent的含义
+#### 2.1 consistent的含义
 
 google对consistent的英文解释:
 
@@ -21,9 +21,9 @@ google对consistent的英文解释:
 
 译者认为`consistent`含义本身具有_时空上的连续性_这层含义，更具有事物在不同时间点上的一致性这个意思。比如：在进行SLAM过程中，传感器数据会随着时间的持续，计算过程中产生误差累计，发生漂移现象，这会影响相机轨迹和环境地图的一致性。
 
-#### 1.2 refine在深度图估计中的含义
+#### 2.2 refine在深度图估计中的含义
 
 译者在深度图估计流程里面，优化当前关键帧\(refine current KF\)翻译上可能不妥，应该把`refine`翻译为**深度更新**，比泛泛的说成\[优化\]更加精确。谢谢周忠详~~
 
-#### 1.3 concatenation operator的翻译
+#### 2.3 concatenation operator的翻译
 concatenation operator: 序连运算子，而不是~~结合律运算符~~
