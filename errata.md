@@ -8,6 +8,8 @@
 
 * 黄山老师 \(湘潭大学\)
 * 周忠详 \(北工大\)
+* 范帝楷 \(西工大\)
+* 贺一家
 
 ### 2. 问题和建议
 
@@ -27,3 +29,8 @@ google对consistent的英文解释:
 
 #### 2.3 concatenation operator的翻译
 concatenation operator: 序连运算子，而不是~~结合律运算符~~
+
+#### 2.4 引论中的字词修改
+谢谢范帝楷的指导
+* 立体（双目）相机（stereo cameras）
+* 单目SLAM，场景尺度不能被观测到
