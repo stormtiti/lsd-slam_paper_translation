@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus", "richquotes"],
+    "plugins": ["disqus", "richquotes", "katex"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "https-www-gitbook-com-stormtiti"
