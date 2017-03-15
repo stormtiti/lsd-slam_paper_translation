@@ -32,7 +32,7 @@ google对consistent的英文解释:
 
 #### 2.3 concatenation operator的翻译
 
-concatenation operator: 序连运算子，而不是~~结合律运算符~~
+concatenation operator:  乘法（算子）~~序连运算子，而不是结合律运算符~~
 
 #### 2.4 引论中的字词修改
 
@@ -42,7 +42,6 @@ concatenation operator: 序连运算子，而不是~~结合律运算符~~
 * 单目SLAM，场景尺度不能被观测到
 
 #### 2.5 收敛半径
+
 谢谢贺一家对收敛半径的解释
-
-
 
