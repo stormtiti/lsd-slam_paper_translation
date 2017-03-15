@@ -10,15 +10,15 @@ In particular, we summarize the representation of 3D poses as elements of Lie-Al
 
 derive direct image alignment as weighted least-squares minimization on Lie-manifolds \(Sec. 2.2\),
 
-**然后（2.2小节）推导出图像直接配准法的实质，即：李群—流体（Lie-manifolds）上的加权最小二乘的最小化\(weighted least-squares minimization\)（优化问题）**
+**然后（2.2小节）推导出图像直接配准法的实质，即：李群—**~~__流体__~~**_流形_（Lie-manifolds）上的加权最小二乘的最小化\(weighted least-squares minimization\)（优化问题）**
 
 and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
-**（相机关键帧之间如何传递深度的不确定性？ 译者额外添加备注）在（2.3小节）我们简单给出（统计学上的）理论公式。**
+**并在（2.3小节）扼要说明不确定性（协方差矩阵或叫信息矩阵，译者额外添加备注）是如何传播的。**（感谢范帝楷同学指点）
 
 **数学符号定义** Notation.
 
-We denote matrices by bold, capital letters \(![](/assets/math_21.png\)\) and vectors as bold, lower case letters \(![](/assets/math_22.png\)\).
+We denote matrices by bold, capital letters （![](/assets/math_21.png)） and vectors as bold, lower case letters (![](/assets/math_22.png)）.
 
 **“矩阵” 用粗体，大写字母表示，（比如：R）， ”向量” 用粗体，小写字母表示（比如：ξ）。**
 
