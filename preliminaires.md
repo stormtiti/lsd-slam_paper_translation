@@ -10,7 +10,7 @@ In particular, we summarize the representation of 3D poses as elements of Lie-Al
 
 derive direct image alignment as weighted least-squares minimization on Lie-manifolds \(Sec. 2.2\),
 
-**然后（2.2小节）推导出图像直接配准法的实质，即：李群—**~~__流体__~~**_流形_（Lie-manifolds）上的加权最小二乘的最小化\(weighted least-squares minimization\)（优化问题）**
+**然后（2.2小节）推导出图像直接配准法的实质，即：李群—**~~流体~~**_流形_（Lie-manifolds）上的加权最小二乘的最小化\(weighted least-squares minimization\)（优化问题）**
 
 and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
