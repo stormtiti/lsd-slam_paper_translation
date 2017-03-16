@@ -22,9 +22,9 @@ We denote matrices by bold, capital letters $$(\textbf{R})$$ and vectors as bold
 
 **“矩阵” 用粗体，大写字母表示，（比如：**$$\textbf{R}$$**）， ”向量” 用粗体， 小写字母表示（比如：**![](/assets/math_22.png)**）。**
 
-The n’th row of a matrix is denoted by ![](/assets/math_20.png).
+The n’th row of a matrix is denoted by $$\begin{bmatrix}\cdot\end{bmatrix}_{n}$$.
 
-**矩阵的第n行用\[·\] n 来表示。（这个表达形式在3.5小节的公式18. 19中出现，译者额外添加备注）**
+**矩阵的第n行用**$$\begin{bmatrix}\cdot\end{bmatrix}_{n}$$**来表示。（这个表达形式在3.5小节的公式18. 19中出现，译者额外添加备注）**
 
 Images I : Ω →R
 
