@@ -36,9 +36,9 @@ where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., 
 
 **论文中提及的若干概念： **
 
-* **图像 I （Image），**
-* **（像素级别的）逆深度图 D（简称逆深度图，per-pixel inverse depth map），**
-* **逆深度方差 V（inverse depth variance map），**
+* **图像 **$$I$$** （Image），**
+* **（像素级别的）逆深度图** $$D$$ **（简称逆深度图，per-pixel inverse depth map），**
+* **逆深度方差** $$V$$  **（inverse depth variance map），**
 
 **我们用数学映射关系的函数表达如下：**
 
