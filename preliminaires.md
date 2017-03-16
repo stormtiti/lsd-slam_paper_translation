@@ -48,7 +48,7 @@ where $$\mathit{\Omega} \subset \mathbb{R}^{2}$$ is the set of normalized pixel 
 
 **其中： ** $$\mathit{\Omega} \subset \mathbb{R}^{2}$$  **，** $$\mathit{\Omega}$$ **是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）。**
 
-Throughout the paper we use d to denote the inverse of the depth z of a point, i.e., $$d=z^{-1}$$.
+Throughout the paper we use $$d$$ to denote the inverse of the depth $$z$$ of a point, i.e., $$d=z^{-1}$$.
 
-**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即： **$$d=z^{-1}$$ **。**
+**在整篇论文中，三维空间中某一点的深度表示为** $$z$$ **, 它的逆深度用** $$d$$ **表示，两者的关系即： **$$d=z^{-1}$$ **。**
 
