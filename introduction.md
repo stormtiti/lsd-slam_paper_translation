@@ -12,9 +12,9 @@ and \(2\) augmented and virtual reality applications slowly making their way int
 
 ** \(2\) 还有，增强和虚拟现实技术的应用正逐渐进入大众市场。**
 
-One of the major benefits of monocular SLAM – and simultaneously one of the biggest challenges – comes with the inherent scale-ambiguity:
+One of the major benefits of $$monocular$$ **SLAM** – and simultaneously one of the biggest challenges – comes with the inherent scale-ambiguity:
 
-**单目SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的**~~尺度歧义~~_**尺度不确定性**_**（scale-ambiguity）这个问题：**
+_单目_**SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的**~~尺度歧义~~_**尺度不确定性**_**（scale-ambiguity）这个问题：**
 
 The scale of the world cannot be observed and drifts over time, being one of the major error sources.
 
