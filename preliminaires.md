@@ -32,7 +32,7 @@ the per-pixel inverse depth map $$D : \mathit{\Omega} \rightarrow \mathbb{R}^{+}
 
 and the inverse depth variance map $$V : \mathit{\Omega} \rightarrow \mathbb{R}^{+}$$ are written as functions,
 
-where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., they include the intrinsic camera calibration.
+where $$\mathit{\Omega} \subset \mathbb{R}^{2}$$ is the set of normalized pixel coordinates, i.e., they include the intrinsic camera calibration.
 
 **论文中提及的若干概念： **
 
@@ -44,11 +44,11 @@ where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., 
 
 * **图像** $$I : \mathit{\Omega} \rightarrow \mathbb{R}$$  ** ，（** $$ I: $$** 从图像向一个实数的映射）**
 * **逆深度图**  $$D : \mathit{\Omega} \rightarrow \mathbb{R}^{+}$$ **（** $$D: $$ **逆深度图到正实数的映射）**
-* **逆深度方差 V : **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
+* **逆深度方差** $$V : \mathit{\Omega} \rightarrow \mathbb{R}^{+}$$ **（** $$V: $$ **逆深度方差到正实数的映射）**
 
-**其中： **![](/assets/math_2.png)**，Ω是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）。**
+**其中： ** $$\mathit{\Omega} \subset \mathbb{R}^{2}$$  **，** $$\mathit{\Omega}$$ **是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）。**
 
-Throughout the paper we use d to denote the inverse of the depth z of a point, i.e.,![](/assets/math_3.png) .
+Throughout the paper we use d to denote the inverse of the depth z of a point, i.e., $$d=z^{-1}$$.
 
-**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即：**![](/assets/math_3.png)。
+**在整篇论文中，三维空间中某一点的深度表示为z, 它的逆深度用d表示，两者的关系即： **$$d=z^{-1}$$ **。**
 
