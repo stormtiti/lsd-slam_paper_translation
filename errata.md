@@ -16,6 +16,9 @@
 
 ### 2. 问题和建议
 
+#### 2.0 LSD 统一的翻译
+Large-Scale Direct Monocular SLAM： 基于直接法的大范围单目SLAM ~~具备大规模，大尺度，基于直接法的单目SLAM~~ 
+
 #### 2.1 consistent的含义
 
 google对consistent的英文解释:
