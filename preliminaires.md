@@ -18,9 +18,9 @@ and briefly introduce propagation of uncertainty \(Sec. 2.3\).
 
 **数学符号定义** Notation.
 
-We denote matrices by bold, capital letters $$(\textbf{R})$$ and vectors as bold, lower case letters $$(\boldsymbol{\xi})$$.
+We denote matrices by bold, capital letters $$(\textbf{R})$$ and vectors as bold, lower case letters (![](/assets/math_22.png)). (note that: Katex doesn't support bold greek letters)
 
-**“矩阵” 用粗体，大写字母表示，（比如：**$$\textbf{R}$$**）， ”向量” 用粗体， 小写字母表示（比如：**$$\boldsymbol{\xi}$$**）。**
+**“矩阵” 用粗体，大写字母表示，（比如：**$$\textbf{R}$$**）， ”向量” 用粗体， 小写字母表示（比如：**![](/assets/math_22.png)**）。**
 
 The n’th row of a matrix is denoted by ![](/assets/math_20.png).
 
