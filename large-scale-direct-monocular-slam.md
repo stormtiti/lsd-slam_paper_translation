@@ -1,4 +1,4 @@
-**3 **~~**具备大规模，大尺度，基于直接法的单目SLAM**~~ **基于直接法的大范围单目SLAM** Large-Scale Direct Monocular SLAM
+**3 **~~具备大规模，大尺度，基于直接法的单目SLAM~~ **基于直接法的大范围单目SLAM** Large-Scale Direct Monocular SLAM
 
 We start by giving an overview of the complete algorithm in Sec. 3.1, and briefly introduce the representation for the global map in Sec. 3.2.
 
