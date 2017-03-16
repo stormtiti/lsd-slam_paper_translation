@@ -26,7 +26,7 @@ The n’th row of a matrix is denoted by $$\begin{bmatrix}\cdot\end{bmatrix}_{n}
 
 **矩阵的第n行用**$$\begin{bmatrix}\cdot\end{bmatrix}_{n}$$**来表示。（这个表达形式在3.5小节的公式18. 19中出现，译者额外添加备注）**
 
-Images $$I : \it{\Omega} \rightarrow \mathbb{R}$$
+Images $$I : \mathit{\Omega} \rightarrow \mathbb{R}$$
 
 the per-pixel inverse depth map D :  ![](/assets/math_1.png)
 
@@ -42,7 +42,7 @@ where ![](/assets/math_2.png) is the set of normalized pixel coordinates, i.e., 
 
 **我们用数学映射关系的函数表达如下：**
 
-* **图像**$$I : \it{\Omega} \rightarrow \mathbb{R}$$** ，（I: 从图像向一个实数的映射）**
+* **图像**$$I : \mathit{\Omega} \rightarrow \mathbb{R}$$** ，（I: 从图像向一个实数的映射）**
 * **逆深度图 D :  **![](/assets/math_1.png)   **（D: 逆深度图到正实数的映射）**
 * **逆深度方差 V : **![](/assets/math_1.png) **（V: 逆深度方差到正实数的映射）**
 
