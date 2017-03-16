@@ -24,9 +24,9 @@ Major enablers are two key novelties:
 
 **LSD-SLAM主要有两个创新点：**
 
-\(1\) a novel direct tracking method which operates on sim\(3\), thereby explicitly detecting scale-drift, and
+\(1\) a novel direct tracking method which operates on $$\mathfrak{sim}(3)$$, thereby explicitly detecting scale-drift, and
 
-**\(1\) 一种新颖的基于（相似变换空间对应的李代数）sim\(3\)上的直接跟踪法（direct tracking），从而能够很明确的检测到尺度漂移，**
+**\(1\) 一种新颖的基于（相似变换空间对应的李代数）**$$\mathfrak{sim}(3)$$**上的直接跟踪法（direct tracking），从而能够很明确的检测到尺度漂移，**
 
 \(2\) an elegant probabilistic solution to include the effect of noisy depth values into tracking.
 
