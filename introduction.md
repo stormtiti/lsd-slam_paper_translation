@@ -26,5 +26,5 @@ The advantage is that this allows to seamlessly switch between differently scale
 
 Scaled sensors on the other hand, such as depth or stereo cameras, have a limited range at which they can provide reliable measurements and hence do not provide this flexibility.
 
-**另一方面，诸如深度或_立体视觉_（双目）相机，这些具备深度信息的传感器（scaled sensors），它们所提供的可靠深度信息范围，是有限制的，故而不能（像单目相机那样）具有尺度灵活性（flexibility）（的特点）。**
+**另一方面，诸如深度或_立体视觉_（双目）相机（stereo cameras），这些具备深度信息的传感器（scaled sensors），它们所提供的可靠深度信息范围，是有限制的，故而不能（像单目相机那样）具有尺度灵活性（flexibility）（的特点）。**
 
