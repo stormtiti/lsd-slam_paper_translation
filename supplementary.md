@@ -13,3 +13,4 @@
 * 清华大学 高翔博士视频讲座 直接法的原理与实现 [http://www.bilibili.com/video/av6299156/](http://www.bilibili.com/video/av6299156/)
 * Author: Timothy D. Barfoot \(state estimation for robotics - University of Toronto\) [http://asrl.utias.utoronto.ca/~tdb/bib/barfoot\_ser15.pdf](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser15.pdf)
 * 作者：张明明（哈工大） http://www.cnbolgs.com/hitcm/p/4907536.html
+* 作者：lancelot (从代码和理论全面介绍LSD) https://www.zybuluo.com/lancelot-vim/note/424925
