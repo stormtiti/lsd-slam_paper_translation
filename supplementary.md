@@ -12,4 +12,4 @@
 * Prof. Daniel Cremers, \(TUM\) Youtube Multiple View Geometry视频  [Multiple View Geometry - Lecture 3](https://www.youtube.com/watch?v=khLM8VV8LuM) Prof. Daniel Cremers其他Multiple View Geometry讲座也非常精彩~~
 * 清华大学 高翔博士视频讲座 直接法的原理与实现 [http://www.bilibili.com/video/av6299156/](http://www.bilibili.com/video/av6299156/)
 * Author: Timothy D. Barfoot \(state estimation for robotics - University of Toronto\) [http://asrl.utias.utoronto.ca/~tdb/bib/barfoot\_ser15.pdf](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser15.pdf)
-* 作者：hitcm（笔名） http://www.cnbolgs.com/hitcm/p/4907536.html
+* 作者：张明明（哈工大） http://www.cnbolgs.com/hitcm/p/4907536.html
