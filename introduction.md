@@ -2,7 +2,7 @@
 
 Real-time monocular Simultaneous Localization and Mapping \(SLAM\) and 3D reconstruction have become increasingly popular research topics.
 
-**当下，实时单目即时定位和地图构建系统（SLAM）和三维空间环境重构俨然成为学术界流行的研究课题。 **
+**当下，实时单目**~~即时~~**同步定位和地图构建系统（SLAM）和三维空间环境重构俨然成为学术界流行的研究课题。 **
 
 Two major reasons are \(1\) their use in robotics, in particular to navigate unmanned aerial vehicles \(UAVs\) \[10, 8, 1\]，
 
@@ -22,7 +22,7 @@ The scale of the world cannot be observed and drifts over time, being one of the
 
 The advantage is that this allows to seamlessly switch between differently scaled environments, such as a desk environment indoors and large-scale outdoor environments.
 
-**当然**~~尺度歧义~~_**尺度不确定性**_**的优点在于，可以对不同规模大小的空间环境之间走游切换，起到无缝连接的作用，比如从室内桌面上的（小）环境和大规模的户外场景（等）。**
+**当然**~~尺度歧义~~_**尺度不确定性**_**的优点在于，可以对不同规模大小的空间环境之间走游切换，起到无缝连接的作用，比如从室内桌面上的（小）环境**~~和到~~**大规模的户外场景（等）。**
 
 Scaled sensors on the other hand, such as depth or stereo cameras, have a limited range at which they can provide reliable measurements and hence do not provide this flexibility.
 
