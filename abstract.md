@@ -26,6 +26,8 @@ The explicitly scale-drift aware formulation allows the approach to operate on c
 
 **LSD-SLAM可以通过（我们选择的）数学公式，计算尺度漂移（scale-drift），从而能够运行在难度比较大的图像序列（sequence）上，诸如：场景尺度（scene scale）变换比较大的场合。**
 
+改动\_Labby：算法提出了计算尺度漂移的公式，即便是当图像序列的场景尺度变化较大，也能够适用。
+
 Major enablers are two key novelties:
 
 **LSD-SLAM主要有两个创新点：**
