@@ -12,7 +12,7 @@ Along with highly accurate pose estimation based on direct image alignment, the 
 
 **（我们的方法）不仅能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计，而且还能够进行在线（real-time）三维环境重构，重构的（点云）地图是由姿态图（pose graph）上的关键帧对应的半稠密深度图（semi-dense depth map）（叠加）组成。**
 
-改动\_Labby：（我们的方法）除了能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计，还能够将三维环境地图实时重构为关键帧的姿态图和对应的半稠密深度图。
+改动\_Labby：（我们的方法）除了能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计外，还能够将三维环境地图实时重构为关键帧的姿态图和对应的半稠密深度图。
 
 These are obtained by filtering over a large number of pixelwise small-baseline stereo comparisons.
 
