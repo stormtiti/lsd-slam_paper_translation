@@ -20,6 +20,8 @@ These are obtained by filtering over a large number of pixelwise small-baseline 
 
 **（相机轨迹和点云地图，译者额外添加备注）这些结果，是通过滤波方式计算得到，这个方式要使用到大量像素，小基线的立体**~~比较~~**配准。**
 
+改动\_Labby：这些都是通过对大量像素点对之间的基线立体配准结果滤波后得到的。
+
 The explicitly scale-drift aware formulation allows the approach to operate on challenging sequences including large variations in scene scale.
 
 **LSD-SLAM可以通过（我们选择的）数学公式，计算尺度漂移（scale-drift），从而能够运行在难度比较大的图像序列（sequence）上，诸如：场景尺度（scene scale）变换比较大的场合。**
