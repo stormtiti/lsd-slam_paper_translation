@@ -38,11 +38,13 @@ Major enablers are two key novelties:
 
 \(2\) an elegant probabilistic solution to include the effect of noisy depth values into tracking.
 
-**\(2\) 使用一种优雅的概率方法，对图像跟踪过程中，处理噪声对深度图像信息的影响。**
+**\(2\) 使用一种**~~**优雅的简练的**~~**概率方法，对图像跟踪过程中，处理噪声对深度图像信息的影响。**
 
 The resulting direct monocular SLAM system runs in real-time on a CPU.
 
 ~~像这样的单目SLAM系统可以实时运行在一个CPU上~~。 （译者： 谢谢SLAM研究群 黄老师帮助）
 
 _**这个单目SLAM系统，可以实时在单个CPU上运行。**_
+
+改动\_Labby：最终结果证明直接单目SLAM算法能够在CPU上实时运行。
 
