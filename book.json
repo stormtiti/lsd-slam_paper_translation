@@ -1,5 +1,5 @@
 {
-    "plugins": ["disqus", "richquotes", "katex", "tbfed-pagefooter@^0.0.1"],
+    "plugins": ["disqus", "richquotes", "katex", "tbfed-pagefooter"],
     "pluginsConfig": {
         "disqus": {
             "shortName": "https-www-gitbook-com-stormtiti"
