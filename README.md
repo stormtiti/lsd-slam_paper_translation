@@ -29,6 +29,13 @@ Engel Jacob 在 Graz 的演讲报告
 
 ---
 
+* 译者： Patrick
+* 审稿： heyijia, lancelot, Labby
+* 泡泡机器人翻译负责人： Reality， 刘富强
+* 以及感谢【泡泡机器人SLAM】社区热心的大牛，达人同学和老师们，并欢迎加入泡泡机器人翻译小组 ；）
+
+---
+
 如果错别字，翻译流畅性问题，或者译者概念搞错，有误导之嫌，或者概念不清晰等，请麻烦告知译者，或写在译文批注里面，译者学识有限，初次翻译和学习，请赐教～～
 
 Ce n'est pas parce que les choses sont difficiles que nous n'osons pas, mais parce que nous n'osons pas qu'elles sont difficiles （Sénèque）
