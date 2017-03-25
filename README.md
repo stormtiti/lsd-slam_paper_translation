@@ -31,7 +31,7 @@ Engel Jacob 在 Graz 的演讲报告
 
 * 译者： Patrick
 * 审稿： heyijia, lancelot, Labby
-* 泡泡机器人翻译负责人： Reality， 刘富强
+* 泡泡机器人翻译负责人： Reality, 刘富强
 * 以及感谢【泡泡机器人SLAM】社区热心的大牛，达人同学和老师们，并欢迎加入泡泡机器人翻译小组 ；）
 
 ---
