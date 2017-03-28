@@ -2,7 +2,7 @@
 
 Real-time monocular Simultaneous Localization and Mapping \(SLAM\) and 3D reconstruction have become increasingly popular research topics.
 
-**当下，实时单目**~~即时~~**同步定位和地图构建系统（SLAM）和三维空间环境重构**~~俨然~~已经**成为学术界流行的研究课题。 **
+**当下，实时单目**~~即时~~**同步定位和地图构建系统（SLAM）和三维空间环境重构**~~俨然~~**_已经_成为学术界流行的研究课题。 **
 
 Two major reasons are \(1\) their use in robotics, in particular to navigate unmanned aerial vehicles \(UAVs\) \[10, 8, 1\]，
 
