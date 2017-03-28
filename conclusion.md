@@ -14,11 +14,11 @@ Major components of the proposed method are two key novelties:
 
 \(1\) a direct method to align two keyframes on $$\mathfrak{sim}(3)$$ , explicitly incorporating and detecting scale-drift
 
-**（1）两帧关键帧之间，用** $$\mathfrak{sim}(3)$$ **直接法来配准，明确纳入和检测尺度漂移。**
+**\(1\)两帧关键帧之间，用** $$\mathfrak{sim}(3)$$ **直接法来配准，明确纳入和检测尺度漂移。**
 
 and \(2\) a novel, probabilistic approach to incorporate noise on the estimated depth maps into tracking.
 
-**并且（2）一种新颖的概率方法（这篇论文没有详细介绍深度估计，译者额外备注说明，请参考reference），将深度图的噪声（深度不确定性）融合到图像跟踪中。**
+**并且\(2\)一种新颖的概率方法（这篇论文没有详细介绍深度估计，译者额外备注说明，请参考reference），将深度图的噪声（深度不确定性）融合到图像跟踪中。**
 
 Represented as point clouds, the map gives a semi-dense and highly accurate 3D reconstruction of the environment.
 
