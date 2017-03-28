@@ -46,7 +46,7 @@ where $$\mathit{\Omega} \subset \mathbb{R}^{2}$$ is the set of normalized pixel 
 * **逆深度图**  $$D : \mathit{\Omega} \rightarrow \mathbb{R}^{+}$$ **（** $$D: $$ **逆深度图到正实数的映射）**
 * **逆深度方差** $$V : \mathit{\Omega} \rightarrow \mathbb{R}^{+}$$ **（** $$V: $$ **逆深度方差到正实数的映射）**
 
-**其中： ** $$\mathit{\Omega} \subset \mathbb{R}^{2}$$  **，** $$\mathit{\Omega}$$ **是归一化（normalized）的像素（二维）坐标点集合，即：包含相机内参（intrinsic）。**
+**其中： ** $$\mathit{\Omega} \subset \mathbb{R}^{2}$$  **，** $$\mathit{\Omega}$$ **是归一化（normalized）的像素（二维）坐标点集合，**~~即：包含相机内参（intrinsic）~~**其考虑了相机内参（intrinsic）。**(译者：谢谢蔡育展老师指点)
 
 Throughout the paper we use $$d$$ to denote the inverse of the depth $$z$$ of a point, i.e., $$d=z^{-1}$$.
 
