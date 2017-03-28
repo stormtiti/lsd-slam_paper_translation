@@ -38,7 +38,9 @@ Major enablers are two key novelties:
 
 \(2\) an elegant probabilistic solution to include the effect of noisy depth values into tracking.
 
-**\(2\) 使用一种**~~**优雅的简练的**~~**概率方法，对图像跟踪过程中，处理噪声对深度图像信息的影响。**
+\(2\) 使用一种~~优雅的简练的~~概率方法，对图像跟踪过程中，处理噪声对深度图像信息的影响。
+
+**\(2\) 提出一种新的基于概率模型的深度噪声处理方法**(译者：谢谢蔡育展老师指导)
 
 The resulting direct monocular SLAM system runs in real-time on a CPU.
 
