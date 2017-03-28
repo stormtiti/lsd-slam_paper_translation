@@ -10,7 +10,7 @@ Along with highly accurate pose estimation based on direct image alignment, the 
 
 ~~（LSD-SLAM）基于直接法图像配准（的方式），不仅能够得到高精度的姿态估计，而且能够实时，基于由关键帧组成的姿态图（pose graph）和对应的半稠密深度图（semi-dense depth map），来重构三维环境。~~
 
-**（我们的方法）不仅能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计，而且还能够进行在线（real-time）三维环境重构，重构的（点云）地图是由姿态图（pose graph）上的关键帧对应的半稠密深度图（semi-dense depth map）（叠加）组成。**
+**（我们的方法）不仅能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计，而且还能够进行在线（real-time）三维环境重构，重构的（点云）地图是由姿态图（pose graph）上的关键帧对应的半稠密深度图（semi-dense depth map）（**~~叠加~~**融合）组成。** (谢谢蔡育展老师指教，确是，融合里面包换机械式的叠加，译者额外添加备注)
 
 改动\_Labby：（我们的方法）除了能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计外，还能够将三维环境地图实时重构为关键帧的姿态图和对应的半稠密的深度图。
 
