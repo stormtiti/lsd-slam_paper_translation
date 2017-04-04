@@ -17,13 +17,13 @@
 15. Klein, G., Murray, D.: **Parallel tracking and mapping for small AR workspaces.** In: Intl. Symp. on Mixed and Augmented Reality \(ISMAR\) \(2007\)
 16. Klein, G., Murray, D.:** Improving the agility of keyframe-based SLAM.** In: European Conference on Computer Vision \(ECCV\) \(2008\)
 17. Klose, S., Heise, P., Knoll, A.: **Efficient compositional approaches for real-time robust direct visual odometry from RGB-D data.** In: Intl. Conf. on Intelligent Robot Systems \(IROS\) \(2013\)
-18. ![](/assets/special_1.png) , R., Grisetti, G., Strasdat, H., Konolige, K., Burgard, W.: **g2o: A general framework for graph optimization.** In: Intl. Conf. on Robotics and Automation \(ICRA\) \(2011\)
+18. Kümmerle, R., Grisetti, G., Strasdat, H., Konolige, K., Burgard, W.: **g2o: A general framework for graph optimization.** In: Intl. Conf. on Robotics and Automation \(ICRA\) \(2011\)
 19. Li, M., Mourikis, A.: **High-precision, consistent EKF-based visual-inertial odometry.** International Journal of Robotics Research 32, 690–711 \(2013\)
 20. Newcombe, R., Lovegrove, S., Davison, A.: **DTAM: Dense tracking and mapping in real-time.** In: Intl. Conf. on Computer Vision \(ICCV\) \(2011\)
 21. Pizzoli, M., Forster, C., Scaramuzza, D.: **REMODE: Probabilistic, monocular dense reconstruction in real time.** In: Intl. Conf. on Robotics and Automation \(ICRA\) \(2014\)
-22. ![](/assets/special_2.png) ,T., Engel, J., Cremers, D.: **Semi-dense visual odometry for AR on a smartphone.** In: Intl. Symp. on Mixed and Augmented Reality \(ISMAR\) \(2014\)
+22. Schöps, T., Engel, J., Cremers, D.: **Semi-dense visual odometry for AR on a smartphone.** In: Intl. Symp. on Mixed and Augmented Reality \(ISMAR\) \(2014\)
 23. Strasdat, H., Montiel, J., Davison, A.: **Scale drift-aware large scale monocular slam.** In: Robotics: Science and Systems \(RSS\) \(2010\)
-24. ![](/assets/special_3.png) , J., Gumhold, S., Cremers, D.: **Real-time dense geometry from a handheld camera.** In: Pattern Recognition \(DAGM\) \(2010\)
+24. Stühmer, J., Gumhold, S., Cremers, D.: **Real-time dense geometry from a handheld camera.** In: Pattern Recognition \(DAGM\) \(2010\)
 25. Sturm, J., Engelhard, N., Endres, F., Burgard, W., Cremers, D.: **A benchmark for the evaluation of RGB-D SLAM systems.** In: Intl. Conf. on Intelligent Robot Systems \(IROS\) \(2012\)
 
 
