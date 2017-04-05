@@ -26,4 +26,5 @@
 * [7 - Supplementary](supplementary.md)
 * [8 - Translation Errata](errata.md)
 * [9 - CHANGELOG](9-changelog.md)
+* [10 - Terminology](terminology.md)
 
