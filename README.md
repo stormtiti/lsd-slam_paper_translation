@@ -24,6 +24,11 @@ Engel Jacob 在 Graz 的演讲报告
 
 \[Link\] [https://www.youtube.com/watch?v=UraGSmId438](https://www.youtube.com/watch?v=UraGSmId438)
 
+Engel Jacob ResearchGate Profile
+
+\[Link\] [https://www.researchgate.net/profile/Jakob_Engel
+](https://www.researchgate.net/profile/Jakob_Engel)
+
 ---
 **【翻译版权声明】泡泡机器人SLAM的所有文章全部由泡泡机器人的成员花费大量心血制作而成的原创内容，希望大家珍惜我们的劳动成果，转载请务必注明出自【泡泡机器人SLAM】微信公众号，否则侵权必究！同时，我们也欢迎各位转载到自己的朋友圈，让更多的人能进入到SLAM这个领域中，让我们共同为推进中国的SLAM事业而努力！**
 
