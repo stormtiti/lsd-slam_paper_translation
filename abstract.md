@@ -6,6 +6,10 @@ We propose a direct \(feature-less\) monocular SLAM algorithm which, in contrast
 
 改动\_Labby：删除"大规模"。
 
+交叉审稿:
+
+**我们提出一种基于直接法的单目SLAM算法，该方法与目前现有直接法相比，能够构建(large-scale)，全局一致性的（consistent map）环境地图。**
+
 Along with highly accurate pose estimation based on direct image alignment, the 3D environment is reconstructed in real-time as pose-graph of keyframes with associated semi-dense depth maps.
 
 ~~（LSD-SLAM）基于直接法图像配准（的方式），不仅能够得到高精度的姿态估计，而且能够实时，基于由关键帧组成的姿态图（pose graph）和对应的半稠密深度图（semi-dense depth map），来重构三维环境。~~
