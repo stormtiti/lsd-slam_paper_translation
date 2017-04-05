@@ -6,7 +6,7 @@ We propose a direct \(feature-less\) monocular SLAM algorithm which, in contrast
 
 改动\_Labby：删除"大规模"。
 
-> **Note** Patrick交叉审稿 large-scale是大尺度的含义，我偏向范帝楷的修改，改成大范围，以上是我的拙见，请指教。
+> **Note** Patrick交叉审稿: large-scale是大尺度的含义，我偏向范帝楷的修改，改成大范围，以上是我的拙见，请指教。
 
 ---
 
