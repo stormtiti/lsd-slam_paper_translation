@@ -2,7 +2,7 @@
 
 We propose a direct \(feature-less\) monocular SLAM algorithm which, in contrast to current state-of-the-art regarding direct methods, allows to build large-scale, consistent maps of the environment.
 
-**我们提出一种**~~直接（无需特征）的单目SLAM算法~~_**基于直接法的单目SLAM算法**_**，该方法与目前现有直接法相比，能够**~~建立~~_**构建**_~~_**（大规模），**_~~**大尺度的（large-scale），全局一致性的（consistent map）环境地图。**
+我们提出一种~~直接（无需特征）的单目SLAM算法~~_基于直接法的单目SLAM算法_，该方法与目前现有直接法相比，能够~~建立~~_构建_~~_（大规模），_~~大尺度的（large-scale），全局一致性的（consistent map）环境地图。
 
 改动\_Labby：删除"大规模"。
 
@@ -18,7 +18,7 @@ Along with highly accurate pose estimation based on direct image alignment, the 
 
 ~~（LSD-SLAM）基于直接法图像配准（的方式），不仅能够得到高精度的姿态估计，而且能够实时，基于由关键帧组成的姿态图（pose graph）和对应的半稠密深度图（semi-dense depth map），来重构三维环境。~~
 
-**（我们的方法）不仅能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计，而且还能够进行在线（real-time）三维环境重构，重构的（点云）地图是由姿态图（pose graph）上的关键帧对应的半稠密深度图（semi-dense depth map）（**~~叠加~~**融合）组成。** (谢谢蔡育展老师指教，确是，融合里面包换机械式的叠加，译者额外添加备注)
+（我们的方法）不仅能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计，而且还能够进行在线（real-time）三维环境重构，重构的（点云）地图是由姿态图（pose graph）上的关键帧对应的半稠密深度图（semi-dense depth map）（~~叠加~~融合）组成。(谢谢蔡育展老师指教，确是，融合里面包换机械式的叠加，译者额外添加备注)
 
 改动\_Labby：（我们的方法）除了能够基于直接图像配准（direct image alignment）得到高度准确的姿态估计外，还能够将三维环境地图实时重构为关键帧的姿态图和对应的半稠密的深度图。
 
@@ -34,9 +34,17 @@ These are obtained by filtering over a large number of pixelwise small-baseline 
 
 ~~（上述姿态图和深度图）是基于图像像素级别（pixelwise），大量小基线（base line）三维立体模型（stereo）比较，筛选计算得到。~~
 
-**（相机轨迹和点云地图，译者额外添加备注）这些结果，是通过滤波方式计算得到，这个方式要使用到大量像素，小基线的立体**~~比较~~**配准。**
+（相机轨迹和点云地图，译者额外添加备注）这些结果，是通过滤波方式计算得到，这个方式要使用到大量像素，小基线的立体~~比较~~配准。
 
 改动\_Labby：这些都是通过对大量像素点对之间的基线立体配准结果滤波后得到的。
+
+> **Note** Patrick交叉审稿: 这里强调像素小基线立体配准的滤波方式。
+
+---
+
+**(相机轨迹和半稠密地图)这些都是通过对大量像素小基线立体配准的滤波方式得到的。**
+
+---
 
 The explicitly scale-drift aware formulation allows the approach to operate on challenging sequences including large variations in scene scale.
 
