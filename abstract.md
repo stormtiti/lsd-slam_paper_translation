@@ -42,7 +42,7 @@ These are obtained by filtering over a large number of pixelwise small-baseline 
 
 ---
 
-**(相机轨迹和半稠密地图)这些都是通过对大量像素小基线立体配准的滤波方式得到的。**
+**(相机轨迹和半稠密地图)这些都是通过对大量像素(pixelwise)小基线(small baseline)立体配准(stereo comparisons)的滤波方式得到的。**
 
 ---
 
@@ -51,6 +51,14 @@ The explicitly scale-drift aware formulation allows the approach to operate on c
 **LSD-SLAM可以通过（我们选择的）数学公式，计算尺度漂移（scale-drift），从而能够运行在难度比较大的图像序列（sequence）上，诸如：场景尺度（scene scale）变换比较大的场合。**
 
 改动\_Labby：算法提出了计算尺度漂移的公式，即便是当图像序列的场景尺度变化较大时也能够适用。
+
+> **Note** Patrick交叉审稿: 赵老师翻译这句话比我干练，我翻译的比较啰嗦。
+
+---
+
+**(LSD-SLAM)算法提出了计算尺度漂移(scale-drift)的公式，即便是当图像序列的场景尺度变化较大时也能够适用。**
+
+---
 
 Major enablers are two key novelties:
 
@@ -64,13 +72,23 @@ Major enablers are two key novelties:
 
 \(2\) 使用一种~~优雅的简练的~~概率方法，对图像跟踪过程中，处理噪声对深度图像信息的影响。
 
-**\(2\) 提出一种新的基于概率模型的深度噪声处理方法**(译者：谢谢蔡育展老师指导)
+> **Note** Patrick交叉审稿: 蔡育展老师翻译点到位。
+
+**\(2\) 提出一种新的基于概率模型的深度噪声处理方法**
 
 The resulting direct monocular SLAM system runs in real-time on a CPU.
 
 ~~像这样的单目SLAM系统可以实时运行在一个CPU上~~。 （译者： 谢谢SLAM研究群 黄老师帮助）
 
-_**这个单目SLAM系统，可以实时在单个CPU上运行。**_
+这个单目SLAM系统，可以实时在单个CPU上运行。
 
 改动\_Labby：最终结果证明直接单目SLAM算法能够在CPU上实时运行。
+
+> **Note** Patrick交叉审稿: 赵老师翻译比我准确。
+
+---
+
+**最终结果证明，直接法单目SLAM系统能够在CPU上实时运行。**
+
+---
 
