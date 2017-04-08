@@ -10,7 +10,7 @@ We propose a direct \(feature-less\) monocular SLAM algorithm which, in contrast
 
 ---
 
-**我们提出一种基于直接法的单目SLAM算法，该方法与目前现有直接法相比，能够构建大范围(large-scale)，全局一致性的（consistent map）环境地图。**
+**我们提出一种基于直接法的单目SLAM算法，该方法与目前现有直接法相比，能够构建大范围(large-scale)，全局一致性的(consistent map)环境地图。**
 
 ---
 
