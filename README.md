@@ -1,4 +1,4 @@
-## [LSD-SLAM : 基于直接法的大范围单目即时定位和地图构建方法](https://www.gitbook.com/book/stormtiti/lsd-slam)
+## [LSD-SLAM : 基于直接法的大范围单目同步定位和地图构建方法](https://www.gitbook.com/book/stormtiti/lsd-slam)
 
 ## LSD-SLAM: Large-Scale Direct Monocular SLAM Chinese Version \[engel14eccv\]
 ---
