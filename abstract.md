@@ -92,7 +92,7 @@ The resulting direct monocular SLAM system runs in real-time on a CPU.
 
 ---
 
-**最终结果证明，直接法单目SLAM系统能够在CPU上实时运行。**
+**结果证明，直接法单目SLAM系统能够在CPU上实时运行。**
 
 ---
 
