@@ -22,7 +22,15 @@ and \(2\) augmented and virtual reality applications slowly making their way int
 
 One of the major benefits of $$monocular$$ **SLAM** – and simultaneously one of the biggest challenges – comes with the inherent scale-ambiguity:
 
-_单目_**SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的**~~尺度歧义~~_**尺度不确定性**_**（scale-ambiguity）这个问题：**
+_单目_SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的~~尺度歧义~~_尺度不确定性_（scale-ambiguity）这个问题：
+
+> **Note** Patrick交叉审稿: 范帝楷用“尺度不确定性”在理解上比较直观。
+
+---
+
+_单目_ **SLAM的主要优点之一，同时也是它的一个最大挑战之一，就是它固有的尺度不确定性(scale-ambiguity)这个问题：**
+
+---
 
 The scale of the world cannot be observed and drifts over time, being one of the major error sources.
 
