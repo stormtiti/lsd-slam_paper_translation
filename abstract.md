@@ -74,7 +74,11 @@ Major enablers are two key novelties:
 
 > **Note** Patrick交叉审稿: 蔡育展老师翻译点到位。
 
+---
+
 **\(2\) 提出一种新的基于概率模型的深度噪声处理方法**
+
+---
 
 The resulting direct monocular SLAM system runs in real-time on a CPU.
 
